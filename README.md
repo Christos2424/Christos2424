@@ -12,4 +12,6 @@ Exploring backend frameworks and tools to sharpen my expertise in server-side de
 
 I’m always eager to collaborate on projects, experiment with new technologies, or discuss game development and backend systems. Let’s connect and grow together!
 
+Reach out: [Chtsad24@gmail.com] 
+
 Thanks for stopping by — happy coding! 
