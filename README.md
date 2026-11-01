@@ -1,12 +1,14 @@
 Hello there! I'm Christos Antoniadis
 
-A 20-year-old programmer studying at S.A.E.K. Koufalion, where I’m honing my skills in software development and code. My goal is to become a backend developer, crafting robust systems and scalable solutions that power the digital world.
+A 22-year-old graduate programmer S.A.E.K. Koufalion, I’m honing my skills in software development and code. My goal is to become a backend developer, crafting robust systems and scalable solutions that power the digital world.
 
 What I’m up to:
 
 Learning the fundamentals of Java, Python, C, and C++ to build a strong coding foundation.
 
 Developing my own e-shop made with html,css,js,python flask and sql.
+
+Developing websites using html,css and js 
 
 Developing my own game using Godot Engine.
 
